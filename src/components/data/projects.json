@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Photofolio",
+    "imageSrc": "https://bootstrapmade.com/content/templatefiles/PhotoFolio/PhotoFolio-bootstrap-website-template.webp",
+    "description": "A photo portfolio website built with React.js.",
+    "demo": "https://photofolio1-9d92.vercel.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "id": 2,
+    "title": "KFC Website",
+    "imageSrc": "https://i.ytimg.com/vi/ZdPR3CAzrQc/maxresdefault.jpg",
+    "description": "A clone of the KFC website built with HTML, CSS, and Bootstrap.",
+    "demo": "https://github.com/Ahtasham-dev/front-end.git",
+    "source": "https://www.github.com"
+  },
+  {
+    "id": 3,
+    "title": "Tic Tac Toe Game",
+    "imageSrc": "https://media.licdn.com/dms/image/C5612AQHm4tg5c35tLg/article-cover_image-shrink_600_2000/0/1584175590822?e=2147483647&v=beta&t=qm5hr2_27kVDNVn_sE3GbMazFcsr0i-6HeQrF807dEw",
+    "description": "A Tic Tac Toe game developed using JavaScript.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "id": 4,
+    "title": "Rock Paper Scissors Game",
+    "imageSrc": "https://miro.medium.com/v2/resize:fit:1400/1*hPhzeFD3htF7ly1AMmAVbw.png",
+    "description": "A Rock Paper Scissors game created with JavaScript.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "id": 5,
+    "title": "BMI Calculator",
+    "imageSrc": "https://cdn.calculatorsoup.com/images/thumbnails/calculators_health_bmi-calculator.png",
+    "description": "A BMI calculator app built with JavaScript.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "id": 6,
+    "title": "Guess a Number Game",
+    "imageSrc": "https://repository-images.githubusercontent.com/615612903/0992f550-ba45-4f7c-b7b9-9ca62df519df",
+    "description": "A 'Guess a Number' game made using JavaScript.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "id": 7,
+    "title": "Color Picker App",
+    "imageSrc": "https://i.ytimg.com/vi/O0RMBES-pN8/maxresdefault.jpg",
+    "description": "A color picker app developed using JavaScript.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "id": 8,
+    "title": "WhatsApp Login & Registration",
+    "imageSrc": "https://www.wikihow.com/images/b/b4/Activate-WhatsApp-Without-a-Verification-Code-Step-44.jpg",
+    "description": "A WhatsApp login and registration system built with the MERN stack.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
